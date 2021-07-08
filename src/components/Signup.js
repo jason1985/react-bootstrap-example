@@ -29,7 +29,7 @@ export default function Signup() {
                 </Card.Body>
             </Card>
             <div className="w-100 text-center mt-2">
-                Already have an account?
+                Already have an account? <a href="#placeholder">Login</a>
             </div>
         </>
     )
